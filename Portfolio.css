@@ -46,7 +46,6 @@
     color:burlywood;
 }
 .list-items>ul>li>a:hover{
-    
     border-top: 2px solid white;
     border-bottom:2px solid white;
 }
@@ -357,10 +356,10 @@
     height:50px;
     border-radius:15px;
     text-align:center;
-  /*  transition: background 0.5s , transform 0.5s;
+ transition: background 0.5s , transform 0.5s;
     box-shadow: 1px 1px 15px whitesmoke,
     1px 1px 15px black;*/
-}
+} 
 footer{
     text-align:center;
     margin:20px;
